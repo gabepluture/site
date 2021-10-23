@@ -86,30 +86,16 @@ img {
   Selection
 -----------------------------*/
 ::-moz-selection {
-  background-color: #566ffe;
+  background-color: #05B7D1;
   color: #ffffff;
 }
 ::selection {
-  background-color: #566ffe;
+  background-color: #05B7D1;
   color: #ffffff;
 }
 
 .color_black {
   color: #183b56;
-}
-
-.light_bg {
-  background: #edf3f5;
-  color: #183b56;
-  -webkit-box-shadow: 0px 2px 4px #7e8eb11f !important;
-          box-shadow: 0px 2px 4px #7e8eb11f !important;
-  padding: 4px 16px;
-  border-radius: 28px;
-  font-weight: 500;
-  white-space: nowrap;
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
-  width: fit-content;
 }
 
 .w-full {
